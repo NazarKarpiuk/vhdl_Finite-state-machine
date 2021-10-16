@@ -1,0 +1,29 @@
+Command line:
+   vhdlFSM_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  51994
+
+Wed Mar 25 17:30:26 2020
+
+
+ Elaboration Time: 0.046875 sec
+
+ Current Memory Usage: 5027.02 Meg
+
+ Total Signals          : 7
+ Total Nets             : 9
+ Total Signal Drivers   : 5
+ Total Blocks           : 2
+ Total Primitive Blocks : 2
+ Total Processes        : 3
+ Total Traceable Variables  : 8
+ Total Scalar Nets and Variables : 369
+Total Line Count : 39
+
+ Total Simulation Time: 0.046875 sec
+
+ Current Memory Usage: 5027.02 Meg
+
+Wed Mar 25 17:30:28 2020
+

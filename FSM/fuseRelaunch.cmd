@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Xilinx/14.7/Projects/FSM/vhdlFSM_isim_beh.exe" -prj "C:/Xilinx/14.7/Projects/FSM/vhdlFSM_beh.prj" "work.vhdlFSM" 
